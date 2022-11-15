@@ -51,14 +51,12 @@ header img{
 .categoria{
     display: flex;
     width: 100%;
-    justify-content: space-between;
     flex-wrap: wrap;
 }
 
 .produtos{
     display: flex;
     width: 100%;
-    justify-content: space-between;
     flex-wrap: wrap;
 }
 
