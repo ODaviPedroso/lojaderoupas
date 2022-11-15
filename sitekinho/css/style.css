@@ -10,7 +10,6 @@ body{
 
 main{
     text-align: justify;
-    width: 55%;
     display: flex;
     flex-direction: column;
     padding: 2% 5%;
@@ -38,7 +37,7 @@ ul{
 }
 
 .Imgcategorias{
-    width: 500px;
+    width: 400px;
     height: 550px;
     margin: 5px;
 }
@@ -56,6 +55,7 @@ footer{
     display: flex;
     width: 100%;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .produtos img{
