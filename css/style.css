@@ -167,7 +167,7 @@ article img{
         width: 90%;
     }
 }
-@media screen and(min-width: 450px) {
+@media screen and(min-width: 1206px) {
     .Imgcategorias{
     width: auto;
     height: 400px;
